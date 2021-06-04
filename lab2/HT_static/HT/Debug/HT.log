@@ -1,0 +1,4 @@
+﻿  Func.cpp
+c:\users\kalos\documents\3kurs\os\lab\lab2\ht_static\ht\func.cpp(140): warning C4715: HT::Open: значение возвращается не при всех путях выполнения
+c:\users\kalos\documents\3kurs\os\lab\lab2\ht_static\ht\func.cpp(84): warning C4715: HT::Create: значение возвращается не при всех путях выполнения
+  HT.vcxproj -> C:\Users\kalos\Documents\3kurs\OS\lab\lab2\HT_tests\HT_tests\Debug\HT.lib

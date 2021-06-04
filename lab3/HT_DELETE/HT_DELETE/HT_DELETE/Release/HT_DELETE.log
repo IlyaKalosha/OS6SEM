@@ -1,0 +1,6 @@
+﻿  HT_DELETE.cpp
+c:\users\kalos\documents\3kurs\os\lab\lab3\ht_delete\ht_delete\ht_delete\ht_delete.cpp(15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода
+  All 146 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  HT_DELETE.vcxproj -> C:\Users\kalos\Documents\3kurs\OS\lab\lab3\HT_DELETE\HT_DELETE\Release\HT_DELETE.exe

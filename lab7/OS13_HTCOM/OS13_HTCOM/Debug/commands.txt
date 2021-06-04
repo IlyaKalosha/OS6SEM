@@ -1,0 +1,5 @@
+OS13_CREATE.exe 1000 3000 32 32 "C:\Users\kalos\Documents\3kurs\OS\lab\lab5\Storage.txt"
+OS13_START.exe "C:\Users\kalos\Documents\3kurs\OS\lab\lab5\Storage.txt"
+OS13_INSERT.exe "FileMappingName"
+OS13_DELETE.exe "FileMappingName"
+OS13_UPDATE.exe "FileMappingName"

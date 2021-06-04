@@ -1,0 +1,6 @@
+runas /user:HTUser01 "OS13_CREATE.exe 1000 3000 32 32 HT C:\Users\kalos\Documents\3kurs\OS\lab\lab7\Storage.txt"
+runas /user:HTUser01 "OS13_START.exe C:\Users\kalos\Documents\3kurs\OS\lab\lab7\Storage.txt"
+OS13_INSERT.exe "FileMappingName"
+OS13_DELETE.exe "FileMappingName"
+OS13_UPDATE.exe "FileMappingName"
+OS13_STOP.exe

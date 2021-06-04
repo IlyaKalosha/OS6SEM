@@ -1,0 +1,2 @@
+﻿HT_CREATE.obj : error LNK2019: ссылка на неразрешенный внешний символ "struct HT::HTHANDLE * __cdecl HT::Create(int,int,int,int,char const * const)" (?Create@HT@@YAPAUHTHANDLE@1@HHHHQBD@Z) в функции _main
+C:\Users\kalos\Documents\3kurs\OS\lab\lab3\HT_CREATE\HT_CREATE\Debug\HT_CREATE.exe : fatal error LNK1120: неразрешенных внешних элементов: 1

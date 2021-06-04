@@ -1,0 +1,6 @@
+﻿  InstallUninstall.cpp
+c:\users\kalos\documents\3kurs\os\lab\lab7\os13_htcom\os13_htcom\installuninstall\installuninstall.cpp(43): warning C4129: R: неизвестная escape-последовательность
+  Создание кода
+  All 17 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  InstallUninstall.vcxproj -> C:\Users\kalos\Documents\3kurs\OS\lab\lab7\OS13_HTCOM\OS13_HTCOM\Release\InstallUninstall.exe

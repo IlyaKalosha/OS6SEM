@@ -1,0 +1,6 @@
+﻿  HT_READ_UPDATE.cpp
+c:\users\kalos\documents\3kurs\os\lab\lab3\ht_read_update\ht_read_update\ht_read_update\ht_read_update.cpp(14): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода
+  All 148 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  HT_READ_UPDATE.vcxproj -> C:\Users\kalos\Documents\3kurs\OS\lab\lab3\HT_READ_UPDATE\HT_READ_UPDATE\Release\HT_READ_UPDATE.exe

@@ -1,0 +1,19 @@
+﻿  pch.cpp
+  CFactory.cpp
+  COM.cpp
+  dllmain.cpp
+  HT.cpp
+  INSTALL.cpp
+  OS13_HTCOM.cpp
+c:\users\kalos\documents\3kurs\os\lab\lab6\os13_htcom\os13_htcom\os13_htcom\os13_htcom.cpp(112): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\kalos\documents\3kurs\os\lab\lab6\os13_htcom\os13_htcom\os13_htcom\os13_htcom.cpp(203): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\kalos\documents\3kurs\os\lab\lab6\os13_htcom\os13_htcom\os13_htcom\os13_htcom.cpp(297): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\kalos\documents\3kurs\os\lab\lab6\os13_htcom\os13_htcom\os13_htcom\os13_htcom.cpp(247): warning C4101: info: неиспользованная локальная переменная
+  Создание кода...
+c:\users\kalos\documents\3kurs\os\lab\lab6\os13_htcom\os13_htcom\os13_htcom\os13_htcom.cpp(155): warning C4715: OS13_HTCOM::HTCreate: значение возвращается не при всех путях выполнения
+c:\users\kalos\documents\3kurs\os\lab\lab6\os13_htcom\os13_htcom\os13_htcom\os13_htcom.cpp(240): warning C4715: OS13_HTCOM::HTOpen: значение возвращается не при всех путях выполнения
+c:\users\kalos\documents\3kurs\os\lab\lab6\os13_htcom\os13_htcom\os13_htcom\os13_htcom.cpp(341): warning C4715: OS13_HTCOM::HTOpen: значение возвращается не при всех путях выполнения
+c:\users\kalos\documents\3kurs\os\lab\lab6\os13_htcom\os13_htcom\os13_htcom\os13_htcom.cpp(442): warning C4715: OS13_HTCOM::HTOpenMapView: значение возвращается не при всех путях выполнения
+c:\users\kalos\documents\3kurs\os\lab\lab6\os13_htcom\os13_htcom\os13_htcom\os13_htcom.cpp(425): warning C4715: OS13_HTCOM::HTInsert: значение возвращается не при всех путях выполнения
+     Создается библиотека C:\Users\kalos\Documents\3kurs\OS\lab\lab6\OS13_HTCOM\OS13_HTCOM\Debug\OS13_HTCOM.lib и объект C:\Users\kalos\Documents\3kurs\OS\lab\lab6\OS13_HTCOM\OS13_HTCOM\Debug\OS13_HTCOM.exp
+  OS13_HTCOM.vcxproj -> C:\Users\kalos\Documents\3kurs\OS\lab\lab6\OS13_HTCOM\OS13_HTCOM\Debug\OS13_HTCOM.dll

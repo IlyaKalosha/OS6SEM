@@ -1,0 +1,20 @@
+﻿  pch.cpp
+  CFactory.cpp
+  COM.cpp
+  dllmain.cpp
+  HT.cpp
+  INSTALL.cpp
+  OS13_HTCOM.cpp
+c:\users\kalos\documents\3kurs\os\lab\lab6\os13_htcom\os13_htcom\os13_htcom\os13_htcom.cpp(112): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\kalos\documents\3kurs\os\lab\lab6\os13_htcom\os13_htcom\os13_htcom\os13_htcom.cpp(96): error C4996: 'mbstowcs': This function or variable may be unsafe. Consider using mbstowcs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(927): note:  см. объявление "mbstowcs"
+c:\users\kalos\documents\3kurs\os\lab\lab6\os13_htcom\os13_htcom\os13_htcom\os13_htcom.cpp(203): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\kalos\documents\3kurs\os\lab\lab6\os13_htcom\os13_htcom\os13_htcom\os13_htcom.cpp(187): error C4996: 'mbstowcs': This function or variable may be unsafe. Consider using mbstowcs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(927): note:  см. объявление "mbstowcs"
+c:\users\kalos\documents\3kurs\os\lab\lab6\os13_htcom\os13_htcom\os13_htcom\os13_htcom.cpp(293): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\kalos\documents\3kurs\os\lab\lab6\os13_htcom\os13_htcom\os13_htcom\os13_htcom.cpp(276): error C4996: 'mbstowcs': This function or variable may be unsafe. Consider using mbstowcs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(927): note:  см. объявление "mbstowcs"
+c:\users\kalos\documents\3kurs\os\lab\lab6\os13_htcom\os13_htcom\os13_htcom\os13_htcom.cpp(277): error C4996: 'mbstowcs': This function or variable may be unsafe. Consider using mbstowcs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(927): note:  см. объявление "mbstowcs"
+c:\users\kalos\documents\3kurs\os\lab\lab6\os13_htcom\os13_htcom\os13_htcom\os13_htcom.cpp(278): error C4996: 'mbstowcs': This function or variable may be unsafe. Consider using mbstowcs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(927): note:  см. объявление "mbstowcs"

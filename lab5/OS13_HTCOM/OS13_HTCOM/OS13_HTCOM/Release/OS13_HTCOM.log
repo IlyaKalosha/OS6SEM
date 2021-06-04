@@ -1,0 +1,11 @@
+﻿  pch.cpp
+  CFactory.cpp
+  COM.cpp
+  dllmain.cpp
+  HT.cpp
+  INSTALL.cpp
+  OS13_HTCOM.cpp
+  Создание кода
+  All 146 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  OS13_HTCOM.vcxproj -> C:\Users\kalos\Documents\3kurs\OS\lab\lab5\OS13_HTCOM\OS13_HTCOM\Release\OS13_HTCOM.dll

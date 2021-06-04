@@ -1,0 +1,8 @@
+﻿  HT_INSERT.cpp
+c:\users\kalos\documents\3kurs\os\lab\lab3\ht_insert\ht_insert\ht_insert\ht_insert.cpp(14): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода
+  3 of 147 functions ( 2.0%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  HT_INSERT.vcxproj -> C:\Users\kalos\Documents\3kurs\OS\lab\lab3\HT_INSERT\HT_INSERT\Release\HT_INSERT.exe

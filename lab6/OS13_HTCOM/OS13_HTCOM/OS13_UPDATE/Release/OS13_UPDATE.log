@@ -1,0 +1,7 @@
+﻿  OS13_UPDATE.cpp
+  Создание кода
+  All 20 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+OS13_HTCOM_STATIC.lib(OS13_HTCOM_STATIC.obj) : warning LNK4099: "OS13_HTCOM_STATIC.pdb" PDB не найден с "OS13_HTCOM_STATIC.lib(OS13_HTCOM_STATIC.obj)" или на "C:\Users\kalos\Documents\3kurs\OS\lab\lab6\OS13_HTCOM\OS13_HTCOM\Release\OS13_HTCOM_STATIC.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+OS13_HTCOM_STATIC.lib(pch.obj) : warning LNK4099: "OS13_HTCOM_STATIC.pdb" PDB не найден с "OS13_HTCOM_STATIC.lib(pch.obj)" или на "C:\Users\kalos\Documents\3kurs\OS\lab\lab6\OS13_HTCOM\OS13_HTCOM\Release\OS13_HTCOM_STATIC.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+  OS13_UPDATE.vcxproj -> C:\Users\kalos\Documents\3kurs\OS\lab\lab6\OS13_HTCOM\OS13_HTCOM\Release\OS13_UPDATE.exe

@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  OS13_HTCOM_STATIC.cpp
+c:\users\kalos\documents\3kurs\os\lab\lab6\os13_htcom\os13_htcom\os13_htcom_static\os13_htcom_static.cpp(177): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\kalos\documents\3kurs\os\lab\lab6\os13_htcom\os13_htcom\os13_htcom_static\os13_htcom_static.cpp(225): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\kalos\documents\3kurs\os\lab\lab6\os13_htcom\os13_htcom\os13_htcom_static\os13_htcom_static.cpp(280): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  OS13_HTCOM_STATIC.vcxproj -> C:\Users\kalos\Documents\3kurs\OS\lab\lab6\OS13_HTCOM\OS13_HTCOM\Release\OS13_HTCOM_STATIC.lib

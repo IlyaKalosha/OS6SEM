@@ -1,0 +1,5 @@
+HT_CREATE.exe 1000 3000 32 4 "C:\\Users\\kalos\\Documents\\3kurs\\OS\\lab\\lab3\\Storage.txt">> log.txt
+HT_START.exe "C:\\Users\\kalos\\Documents\\3kurs\\OS\\lab\\lab3\\Storage.txt"
+HT_INSERT.exe "FileMappingName"
+HT_DELETE.exe "FileMappingName"
+HT_READ_UPDATE.exe "FileMappingName"

@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  CFactory.cpp
+  COMDLL.cpp
+  dllmain.cpp
+  INSTALL.cpp
+  OS12_COM.cpp
+  Создание кода...
+     Создается библиотека C:\Users\kalos\Documents\3kurs\OS\lab\lab4\OS12_COM\OS12_COM\Debug\OS12_COM.lib и объект C:\Users\kalos\Documents\3kurs\OS\lab\lab4\OS12_COM\OS12_COM\Debug\OS12_COM.exp
+  OS12_COM.vcxproj -> C:\Users\kalos\Documents\3kurs\OS\lab\lab4\OS12_COM\OS12_COM\Debug\OS12_COM.dll
