@@ -223,7 +223,7 @@ HRESULT  STDMETHODCALLTYPE OS13_HTCOM::HTOpen(const char FileName[512], HT::HTHA
 				PAGE_READWRITE,
 				NULL,
 				sizeof(NewHT) + NewHT->Capacity*(NewHT->MaxKeyLength + NewHT->MaxPayloadLength)
-				, L"FileMappingName");
+				, L"Global\\FileMappingName");
 			if (!hm)
 				throw "create File mapping failed";
 

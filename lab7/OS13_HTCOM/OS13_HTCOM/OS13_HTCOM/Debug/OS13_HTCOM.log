@@ -1,4 +1,5 @@
-﻿  pch.cpp
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppClean.targets(76,5): warning : Отказано в доступе по пути "c:\users\kalos\documents\3kurs\os\lab\lab7\os13_htcom\os13_htcom\debug\os13_htcom.dll".
+  pch.cpp
   CFactory.cpp
   COM.cpp
   dllmain.cpp
@@ -12,9 +13,8 @@ c:\users\kalos\documents\3kurs\os\lab\lab7\os13_htcom\os13_htcom\os13_htcom\os13
 c:\users\kalos\documents\3kurs\os\lab\lab7\os13_htcom\os13_htcom\os13_htcom\os13_htcom.cpp(266): warning C4101: info: неиспользованная локальная переменная
   Создание кода...
 c:\users\kalos\documents\3kurs\os\lab\lab7\os13_htcom\os13_htcom\os13_htcom\os13_htcom.cpp(156): warning C4715: OS13_HTCOM::HTCreate: значение возвращается не при всех путях выполнения
-c:\users\kalos\documents\3kurs\os\lab\lab7\os13_htcom\os13_htcom\os13_htcom\os13_htcom.cpp(250): warning C4715: OS13_HTCOM::HTOpen: значение возвращается не при всех путях выполнения
-c:\users\kalos\documents\3kurs\os\lab\lab7\os13_htcom\os13_htcom\os13_htcom\os13_htcom.cpp(360): warning C4715: OS13_HTCOM::HTOpen: значение возвращается не при всех путях выполнения
-c:\users\kalos\documents\3kurs\os\lab\lab7\os13_htcom\os13_htcom\os13_htcom\os13_htcom.cpp(461): warning C4715: OS13_HTCOM::HTOpenMapView: значение возвращается не при всех путях выполнения
 c:\users\kalos\documents\3kurs\os\lab\lab7\os13_htcom\os13_htcom\os13_htcom\os13_htcom.cpp(444): warning C4715: OS13_HTCOM::HTInsert: значение возвращается не при всех путях выполнения
-     Создается библиотека C:\Users\kalos\Documents\3kurs\OS\lab\lab7\OS13_HTCOM\OS13_HTCOM\Debug\OS13_HTCOM.lib и объект C:\Users\kalos\Documents\3kurs\OS\lab\lab7\OS13_HTCOM\OS13_HTCOM\Debug\OS13_HTCOM.exp
-  OS13_HTCOM.vcxproj -> C:\Users\kalos\Documents\3kurs\OS\lab\lab7\OS13_HTCOM\OS13_HTCOM\Debug\OS13_HTCOM.dll
+c:\users\kalos\documents\3kurs\os\lab\lab7\os13_htcom\os13_htcom\os13_htcom\os13_htcom.cpp(360): warning C4715: OS13_HTCOM::HTOpen: значение возвращается не при всех путях выполнения
+c:\users\kalos\documents\3kurs\os\lab\lab7\os13_htcom\os13_htcom\os13_htcom\os13_htcom.cpp(250): warning C4715: OS13_HTCOM::HTOpen: значение возвращается не при всех путях выполнения
+c:\users\kalos\documents\3kurs\os\lab\lab7\os13_htcom\os13_htcom\os13_htcom\os13_htcom.cpp(461): warning C4715: OS13_HTCOM::HTOpenMapView: значение возвращается не при всех путях выполнения
+LINK : fatal error LNK1104: не удается открыть файл "C:\Users\kalos\Documents\3kurs\OS\lab\lab7\OS13_HTCOM\OS13_HTCOM\Debug\OS13_HTCOM.dll"

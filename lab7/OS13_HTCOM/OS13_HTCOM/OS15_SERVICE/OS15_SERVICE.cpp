@@ -44,16 +44,16 @@ VOID WINAPI ServiceMain(DWORD dwArgc, LPTSTR* lpszArgv)
 		else
 		{
 			int k = 0;
-			const char * ddd= "C:\\Users\\kalos\\Documents\\3kurs\\OS\\lab\\lab7\\OS13_HTCOM\\OS13_HTCOM\\Release\\OS13_START.exe C:\\Users\\kalos\\Documents\\3kurs\\OS\\lab\\lab7\\Storage.txt";
-			WinExec(ddd, SW_SHOW);
-			system("start C:\\Users\\kalos\\Documents\\3kurs\\OS\\lab\\lab7\\OS13_HTCOM\\OS13_HTCOM\\Release\\OS13_START.exe C:\\Users\\kalos\\Documents\\3kurs\\OS\\lab\\lab7\\Storage.txt");
+				system("start C:\\Users\\kalos\\Documents\\3kurs\\OS\\lab\\lab7\\OS13_HTCOM\\OS13_HTCOM\\Release\\OS13_START.exe C:\\Users\\kalos\\Documents\\3kurs\\OS\\lab\\lab7\\Storage.txt");
+				//system("start notepad");
+
 			trace("Start service", std::ofstream::out);
-			/*while (ServiceStatus.dwCurrentState == SERVICE_RUNNING)
+			while (ServiceStatus.dwCurrentState == SERVICE_RUNNING)
 			{
 				Sleep(3000);
 				sprintf_s(temp, "Service running = %d", k++);
 				trace(temp);
-			}*/
+			}
 		}
 	}
 }
